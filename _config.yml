@@ -26,7 +26,7 @@ github_username:  minimal_github
 
 #disqus config
 disqus:
-  shortname: usuariododisqus
+  shortname: jekyll-minimal
 
 # Build settings
 markdown: kramdown
