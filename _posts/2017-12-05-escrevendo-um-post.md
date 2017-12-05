@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic sequi illum natus 
 
 # inserindo imagem em markdown 
 
-![imagem do gatinho](/assets/img/pages/contact/gato-negro-atendendo-telefone.jpg)
+![imagem do gatinho]({{ site.baseurl }}/assets/img/pages/contact/gato-negro-atendendo-telefone.jpg)
 
 
 
